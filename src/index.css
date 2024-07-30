@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#social{
+  width: 42px;
+   height: 42px;
+}
+#contact{
+  color: cornflowerblue;
+}
+#item{
+  color: white;
+}
+h1{
+  color: cornflowerblue;
+}
